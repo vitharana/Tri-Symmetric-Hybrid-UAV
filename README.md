@@ -2,6 +2,12 @@
 
 This repository contains the research and development work for the **Tri-Symmetric Hybrid UAV** project.
 
+
+<p align="center">
+  <img src="images/drone.png" alt="Tri-Symmetric Hybrid UAV" width="700">
+</p>
+
+
 ## Repository
 
 [View the files](https://drive.google.com/drive/folders/1d7UtwUP2wcFa17OPj4aH3DGttraEhLDT?usp=sharing)
