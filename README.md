@@ -4,7 +4,7 @@ This repository contains the research and development work for the **Tri-Symmetr
 
 
 <p align="center">
-  <img src="images/drone.png" alt="Tri-Symmetric Hybrid UAV" width="700">
+  <img src="images/drone.png" alt="Tri-Symmetric Hybrid UAV" width="300">
 </p>
 
 
