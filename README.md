@@ -27,3 +27,10 @@ A novel hybrid UAV concept combining tri-symmetric geometry with VTOL and forwar
 **Sandun Vitharana**
 
 Texas A&M University
+
+
+## Supervisor
+
+**Dr. Isuru Godage**
+
+Texas A&M University
